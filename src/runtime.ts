@@ -1,5 +1,3 @@
-import ReactDOM from "react-dom";
-
 export type Program<TState, TAction, TView> = {
   init: () => TState;
   view: (state: TState, dispatch: Dispatch<TAction>) => TView;
