@@ -1,8 +1,9 @@
 {
-  "name": "tea-runtime",
+  "name": "tea-minimal",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
+  "description": "Minimal The Elm Architecture implementation in typescript",
   "devDependencies": {
     "@types/react": "^17.0.38",
     "@types/react-dom": "^17.0.11",
